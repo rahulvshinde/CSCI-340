@@ -1,0 +1,1 @@
+cmd_/home/rahul/Assignments01/src/num_pagefaults.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/rahul/Assignments01/src/num_pagefaults.ko /home/rahul/Assignments01/src/num_pagefaults.o /home/rahul/Assignments01/src/num_pagefaults.mod.o

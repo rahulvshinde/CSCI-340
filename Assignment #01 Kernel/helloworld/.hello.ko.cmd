@@ -1,0 +1,1 @@
+cmd_/home/rahul/Assignments01/helloworld/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/rahul/Assignments01/helloworld/hello.ko /home/rahul/Assignments01/helloworld/hello.o /home/rahul/Assignments01/helloworld/hello.mod.o
